@@ -1,14 +1,17 @@
 ---
 layout: project
 type: project
-image: images/lokahi.png
+image: images/lokahi.jpg
 title: Lokahi Framework
 permalink: projects/lokahi
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Play
+  - Java
+  - Python
+  - Akka
+  - Kafka
+  - MongoDB
 summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
 ---
 
