@@ -2,7 +2,7 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: Anthony | Professional Portfolio
+title: Anthony | ICS PhD Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://anthonyjchriste.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
@@ -16,7 +16,7 @@ bio-page-label: CV
 theme-home: theme-home-builtin-1.html
 theme-projects: theme-projects-builtin-1.html
 theme-essays: theme-essays-builtin-1.html
-theme-bio: theme-bio-builtin-1.html
+theme-bio: theme-bio-builtin-2.html
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
