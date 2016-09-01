@@ -19,4 +19,4 @@ infrasound data. More information can be found under the [Lokahi]() project.
 
 **Open Power Quality - 1 semester - CSDL w/ Philip Johnson**  
 Designed a software suite for the collection, aggregation, analysis, display, and reporting of distributed power quality 
-data. More information can be found [OPQ]() project.
+data. More information can be found under the [OPQ]() project.
