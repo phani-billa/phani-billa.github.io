@@ -9,7 +9,7 @@ labels:
 #### Literature Review
 TODO.
 
-[Literature Review PDF]()
+[Literature Review PDF](https://github.com/anthonyjchriste/phd-lit-review/blob/master/litreview.pdf)
 
 #### Publications
 *OpenPowerQuality: An Open Source Framework for Power Quality Collection, Analysis, Visualization, and Privacy*.
