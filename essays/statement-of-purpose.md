@@ -2,7 +2,7 @@
 layout: essay  
 type: essay  
 title: Statement of Purpose  
-date: 2016-08-29  
+date: 2016-09-20  
 labels:
   - PhD Portfolio
 --- 
@@ -16,14 +16,16 @@ timely information to make an informed decision on evacuation procedures? Can yo
 compromising the privacy of those you’re trying to protect?
  
 These events are distributed geographically. These events are distributed through time. These events leave clues in 
-waveforms and metadata that can help predict future states of the environment. For the first time ever, these events can
-be studied in great depth using distributed sensor networks. What set of metrics must be present in these types of 
-events that allow us to process the data and maintain users’ privacy at the same time? 
+waveforms and metadata that can help predict future states of the environment. Smart, internet connected devices are becoming cheaper and easier to build. For the first time ever, these events can
+be studied in great depth easily using distributed sensor networks. What set of metrics must be present in these types of 
+events that allow us to process the data, maintain users’ privacy, and build communities of devices based off meta-data and data? 
  
 When we develop the ability to examine the environment at an extremely detailed manner, we must weigh the costs of
 privacy introduced by the amount of data received vs the information that is necessary for the particular research
-being performed. Data fusion along with the increasing amount of metadata can make it very easy to uncover information
-that was intended not to be shared. How do we balance information vs privacy? 
+being performed. Data fusion along with the increasing amounts of metadata can make it very easy to uncover information
+that was intended not to be shared. Is it possible to balance information gathering for scientific purposes against the privacy needs of the general public and our users?
+
+Distributed sensor networks often show emergent behavior where the data from distributed sensors can be categorized into communites. I am investigating how distributed sensors can be categorized into communities based off of the meta-data and the actual payload that these devices. By adding this concept of communities (both virtual and geographic), how can we ensure that private data is not being leaked by performing fusion on these communities.
    
 A smaller sized distributed power quality sensor network without intelligent triggering situated on the island of Hawaii
 with 100 devices sampling at 4,000 Hz will produce approximately 2.5 Gb of data per hour or about 65 Gb of data per 
@@ -37,15 +39,10 @@ approximately 16 Kb per minute. At a scale of 10,000 infrasound sensors the netw
 Since we do not have infinite bandwidth or infinite computational capacity, we need to find a set of metrics that define
 and constrain sensor networks and allow us to describe sensor network in a mathematical manner based in limitations set
 by bandwidth and computational constraints.
-  
-The recent and on-going explosion of Big Data has presented a complex challenge for data scientists and system 
-architects. Large sensor networks continuously streaming data will often overwhelm a single server. Traditional database
-techniques quickly break down when Gigabytes of meta-data need to be continuously written and queried. Trying to 
-process Big Data on a single server quickly becomes an exercise in futility. 
  
-My research interests are solving these problems in a unified and transportable way. By leveraging distributed 
-computing, I aim to provide a framework that can meet the demands of this Big Data 2explosion and to advance the fields 
-of distributed sensor networks and distributed sensor network architectures.
+My research interests are solving these problems in a unified and transportable way. By leveraging distributed and cloud
+computing, I aim to provide a framework that can meet the demands of this Big Data explosion while maintaining the privacy of users and to advance the fields 
+of distributed sensor networks, distributed sensor network architectures, and data privacy and integrity.
 
 #### Goals
 In the next year I plan to introduce algorithms for dealing with the acquisition of temporospatial data in distributed 
@@ -53,17 +50,11 @@ environments. Services such as TempoDB and OpenTSDB claim to offer a large packa
 data, however their acquisition relies on simply metrics such as single temperature values. Current services do not 
 scale when trying to collect data with complicated meta-data and or a large vector of fields per measurement. 
 
-Within three to five years I hope to implement distributed algorithms for DSP and event detection as part of my PhD 
+Within one to two years I hope to implement distributed algorithms for DSP and event detection as part of my PhD 
 work. I hope to design a set of metrics that will quantify the performance of distributed sensor networks. Given a known
-set of bandwidths and computational capacities, how do changes to the network affect the performance and data of the 
-overall network?
+set of bandwidths and computational capacities, I hope to find how changes to the network affect the performance and data of the overall network?
  
-After receiving my PhD,I hope to continue my work with distributed sensor networks. The amount of sensors is increasing 
-exponentially and will require new techniques to process. My goal is to lay the framework for the upcoming explosion of 
-sensors and data. Advances in these technologies can pave the way to making it easier to deploy and manage sensor 
-networks, make it easier for smaller countries to set up National Data Centers, make it easier for universities to do 
-large scale distributed studies and continue to advance this explosion of IoT connected devices. I would prefer to stay 
-in academia, but am willing to go into industry as well to continue to advance these ideas.
+After receiving my PhD, I hope to continue my work with distributed sensor networks either in industry or accedamia. The amount of sensors is increasing exponentially and will require new techniques for data processing. 
 
 #### Progress
 Over the past three years I've been building a framework to detect transients in power quality data. I picked up a lot 
