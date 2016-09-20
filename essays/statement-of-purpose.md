@@ -1,3 +1,12 @@
+---
+layout: essay  
+type: essay  
+title: Statement of Purpose  
+date: 2016-09-20  
+labels:
+  - PhD Portfolio
+--- 
+
 #### Background and Research Interests
 
 There is a large explosion over Washington D.C. Do you send in the troops, the red cross, the firefighters, or the
