@@ -1,12 +1,3 @@
----
-layout: essay  
-type: essay  
-title: Statement of Purpose  
-date: 2016-09-20  
-labels:
-  - PhD Portfolio
---- 
-
 #### Background and Research Interests
 
 There is a large explosion over Washington D.C. Do you send in the troops, the red cross, the firefighters, or the
@@ -25,7 +16,7 @@ privacy introduced by the amount of data received vs the information that is nec
 being performed. Data fusion along with the increasing amounts of metadata can make it very easy to uncover information
 that was intended not to be shared. Is it possible to balance information gathering for scientific purposes against the privacy needs of the general public and our users?
 
-Distributed sensor networks often show emergent behavior where the data from distributed sensors can be categorized into communites. I am investigating how distributed sensors can be categorized into communities based off of the meta-data and the actual payload that these devices. By adding this concept of communities (both virtual and geographic), how can we ensure that private data is not being leaked by performing fusion on these communities.
+Distributed sensor networks often show emergent behavior where the data from distributed sensors can be categorized into communities. I am investigating how distributed sensors can be categorized into communities based off of the meta-data and the actual payload that these devices. By adding this concept of communities (both virtual and geographic), how can we ensure that private data is not being leaked by performing fusion on these communities.
    
 A smaller sized distributed power quality sensor network without intelligent triggering situated on the island of Hawaii
 with 100 devices sampling at 4,000 Hz will produce approximately 2.5 Gb of data per hour or about 65 Gb of data per 
@@ -54,7 +45,7 @@ Within one to two years I hope to implement distributed algorithms for DSP and e
 work. I hope to design a set of metrics that will quantify the performance of distributed sensor networks. Given a known
 set of bandwidths and computational capacities, I hope to find how changes to the network affect the performance and data of the overall network?
  
-After receiving my PhD, I hope to continue my work with distributed sensor networks either in industry or accedamia. The amount of sensors is increasing exponentially and will require new techniques for data processing. 
+After receiving my PhD, I hope to continue my work with distributed sensor networks either in industry or academia. The amount of sensors is increasing exponentially and will require new techniques for data processing. 
 
 #### Progress
 Over the past three years I've been building a framework to detect transients in power quality data. I picked up a lot 
