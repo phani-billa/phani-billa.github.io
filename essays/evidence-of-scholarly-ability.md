@@ -11,7 +11,7 @@ labels:
 
 ## Literature Review
 
-*Cloud-based sensor data management: A literature review*
+*Cloud-based sensor data management: A literature review.*
 Anthony Christe. CSDL Tech Report CSDL-16-??.
 
 Abstract: TBD
