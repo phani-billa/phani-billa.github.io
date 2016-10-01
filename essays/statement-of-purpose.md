@@ -7,7 +7,9 @@ labels:
   - PhD Portfolio
 --- 
 
-#### Background and Research Interests
+*This page presents my statement of purpose in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). It summarizes my professional interests in research, teaching, service, and/or product development.*
+
+## Background and Research Interests
 
 There is a large explosion over Washington D.C. Do you send in the troops, the red cross, the firefighters, or the
 hazmat team? A rolling brownout is traveling across the country, can you predict and mitigate the effects before it 
@@ -44,7 +46,8 @@ My research interests are solving these problems in a unified and transportable 
 computing, I aim to provide a framework that can meet the demands of this Big Data explosion while maintaining the privacy of users and to advance the fields 
 of distributed sensor networks, distributed sensor network architectures, and data privacy and integrity.
 
-#### Goals
+##  Goals
+
 In the next year I plan to introduce algorithms for dealing with the acquisition of temporospatial data in distributed 
 environments. Services such as TempoDB and OpenTSDB claim to offer a large package of analytics for distributed sensor 
 data, however their acquisition relies on simply metrics such as single temperature values. Current services do not 
@@ -56,7 +59,8 @@ set of bandwidths and computational capacities, I hope to find how changes to th
  
 After receiving my PhD, I hope to continue my work with distributed sensor networks either in industry or academia. The amount of sensors is increasing exponentially and will require new techniques for data processing. 
 
-#### Progress
+## Progress
+
 Over the past three years I've been building a framework to detect transients in power quality data. I picked up a lot 
 of my research foundation by taking masters classes in software engineering for smart grids, advanced algorithms, 
 advanced operating systems, theory of computation, AI, and web design.
