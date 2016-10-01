@@ -43,7 +43,7 @@ My specific contributions to this paper involve the discussions on privacy, visu
 Anthony Christe.
 April, 2014. CSDL Tech Report CSDL-14-04.
 
-Power quality issues can be caused in a variety of situations. Voltage fluctuations, frequency fluctuations, and 
+Abstract: Power quality issues can be caused in a variety of situations. Voltage fluctuations, frequency fluctuations, and 
 harmonics are all power quality issues which can be caused by weather, high penetration of renewables, man-made issues, 
 or other natural phenomena. We designed a software framework which can aggregate crowdsourced distributed power quality 
 measurements in order to study power quality issues over a dense geographic area.
