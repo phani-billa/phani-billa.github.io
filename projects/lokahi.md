@@ -15,7 +15,7 @@ labels:
 summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/lokahi.png">
+<img class="ui image" src="{{ site.baseurl }}/images/lokahi.png" width=50%>
 
 Lokahi, which means harmony in Hawaiian, is a set of software components that handle the acquisition, storage, analysis,
 and reporting of distributed sensor data.
