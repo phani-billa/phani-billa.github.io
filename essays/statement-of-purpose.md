@@ -27,7 +27,7 @@ privacy introduced by the amount of data received vs the information that is nec
 being performed. Data fusion along with the increasing amounts of metadata can make it very easy to uncover information
 that was intended not to be shared. Is it possible to balance information gathering for scientific purposes against the privacy needs of the general public and our users?
 
-Distributed sensor networks often show emergent behavior where the data from distributed sensors can be categorized into communities. I am investigating how distributed sensors can be categorized into communities based off of the meta-data and the actual payload that these devices. By adding this concept of communities (both virtual and geographic), how can we ensure that private data is not being leaked by performing fusion on these communities.
+Distributed sensor networks often show emergent behavior where the data from distributed sensors can be categorized into communities. I am investigating how distributed sensors can be categorized into communities based off of the meta-data and the actual payload. By adding this concept of communities (both virtual and geographic), I would like to investigate whether private data is not being leaked by performing fusion on these communities.
    
 A smaller sized distributed power quality sensor network without intelligent triggering situated on the island of Hawaii
 with 100 devices sampling at 4,000 Hz will produce approximately 2.5 Gb of data per hour or about 65 Gb of data per 
