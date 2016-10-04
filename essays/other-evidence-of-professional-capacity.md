@@ -30,22 +30,25 @@ data. More information can be found under the [OPQ]() project.
 
 ## Professional Presentations
 
-### CVT Workshop 2016
+### ASA (Upcomming)
+
+* December 1st, 2016. Honoulu, HI.
+
+### CVT Workshop 2016 (Upcomming)
 
 * October 19th, 2016. Ann Arbor, MI.
-* [Video]()
-* [Slides]()
+* [Poster]()
 
 ### IEEE PES ISGT Conference 2016
 
 * September 8th, 2016. Minneapolis, MS.
-* [Slides]()
+* [Paper](https://github.com/openpowerquality/isgt2016/raw/master/opqVis.pdf)
+* [Slides](https://github.com/openpowerquality/isgt2016/raw/master/paper-presentation/ISGT_2016.pdf)
 
 ### UITI Workshop 2016
 
 * June 8th, 2016. Raleigh, NC.
-* [Video]()
-* [Slides]()
+* [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWRGgtMEtoenJIeXc)
 
 ### AGU 2015
 
