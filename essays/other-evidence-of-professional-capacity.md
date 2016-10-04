@@ -28,6 +28,22 @@ infrasound data. More information can be found under the [Lokahi]() project.
 Designed a software suite for the collection, aggregation, analysis, display, and reporting of distributed power quality 
 data. More information can be found under the [OPQ]() project.
 
+## Professional Presentations
+
+### IEEE PES ISGT Conference 2016
+
+### CVT Workshop 2016
+
+### UITI Workshop 2016
+
+### AGU 2015
+
+### CVT Workshop 2015
+
 ## Service
 
 put some service here.
+
+## CV
+
+More details can be found on my [CV](https://anthonyjchriste.github.io/bio/).
