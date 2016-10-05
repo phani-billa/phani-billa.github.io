@@ -31,11 +31,11 @@ data. More information can be found under the [OPQ]() project.
 ## Internships
 
 ### Lawrence Livermore National Laboratory
-Granted an Academic Cooperation Participantship with LLNL's Big Data GNEM group from 2014 - 2016. Surveyed and implemented open source big data solutions for streaming seismic data. 
+Granted an Academic Cooperation Participantship with LLNL's Big Data GNEM group from 2014 - 2016. Surveyed and implemented open source big data solutions for streaming seismic data.
 
 ## Professional Presentations
 
-**Acoustical Society of America**. December 1st, 2016. Honoulu, HI. [Slides]().  
+**Acoustical Society of America**. December 1st, 2016. Honolulu, HI. [Slides]().  
 **Consortium for Verification Technology Workshop**. October 19th, 2016. Ann Arbor, MI. [Poster]().  
 **IEEE PES Innovative Smart Grid Technologies Conference.**. September 8th, 2016. Minneapolis, MN. [Paper](https://github.com/openpowerquality/isgt2016/raw/master/opqVis.pdf). [Slides](https://github.com/openpowerquality/isgt2016/raw/master/paper-presentation/ISGT_2016.pdf).    
 **University & Industry Technical Interchange Review Meeting**. June 8th, 2016. Raleigh, NC. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWRGgtMEtoenJIeXc).  
