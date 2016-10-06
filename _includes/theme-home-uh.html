@@ -39,13 +39,13 @@
       </div>
       <div class="center aligned content">
         <a href="{{ site.baseurl}}/projects/">
-          <button class="uh ui basic button">Projects ({{ num_projects }})</button>
+          <button class="uhbtn ui basic button">Projects ({{ num_projects }})</button>
         </a>
         <a href="{{ site.baseurl}}/essays/">
-          <button class="uh ui basic button">Essays ({{ num_essays }})</button>
+          <button class="uhbtn ui basic button">Essays ({{ num_essays }})</button>
         </a>
         <a href="{{ site.baseurl}}/bio/">
-          <button class="uh ui basic button">{{ site.bio-page-label }}</button>
+          <button class="uhbtn ui basic button">{{ site.bio-page-label }}</button>
         </a>
       </div>
     </div>
@@ -57,7 +57,16 @@
   /* Terrible ugly hack to get nice background image on main page without changing other templates */
   document.addEventListener("DOMContentLoaded", function() {
       var body = document.getElementsByTagName("body")[0];
-      body.style.cssText = 'background: url("https://upload.wikimedia.org/wikipedia/commons/3/38/UniversityHawaiiManoaCampusRoundtop.jpg"); background-size: auto; background-position: center; background-repeat: no-repeat;';
+      body.style.cssText =
+          'background: url("../images/kalalau3.png");' +
+          'background-size: auto;' +
+          'background-position: center;' +
+          'background-repeat: no-repeat;';
+
+      var uhbtns = document.getElementsByClassName("uhbtn");
+      for(var i = 0; i < uhbtns.length; i++) {
+          uhbtns[i].cssText = "background-color: green;";
+      }
   });
 
 </script>
