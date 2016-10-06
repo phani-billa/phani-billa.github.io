@@ -5,7 +5,7 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
-$uh-green-official: #024731;
+$uh-green-official: #024731; // https://www.hawaii.edu/offices/eaur/graphicsguide.html
 $uh-green: lighten($uh-green-official, 5%);
 $uh-green-light: lighten($uh-green-official, 10%);
 
@@ -28,7 +28,8 @@ $uh-green-light: lighten($uh-green-official, 10%);
   }
 }
 
-a.ui.bottom.attached.button, div.ui.basic.label {
+// "Read More" buttons
+a.ui.bottom.attached.button {
   color: white;
   background: $uh-green-light;
 
@@ -37,6 +38,13 @@ a.ui.bottom.attached.button, div.ui.basic.label {
   }
 }
 
+// Tag pill boxes
+div.ui.basic.label {
+  color: white;
+  background: $uh-green-light;
+}
+
+// General links
 a {
   color: $uh-green-light;
   &:hover {
@@ -44,6 +52,7 @@ a {
   }
 }
 
+// Home page buttons (projects, essays, cv, etc)
 .ui.basic.button, .ui.basic.buttons .button {
   background: $uh-green-light !important;
   color: white !important;
