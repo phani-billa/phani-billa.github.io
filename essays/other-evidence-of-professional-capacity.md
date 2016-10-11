@@ -35,12 +35,12 @@ Granted an Academic Cooperation Participantship with LLNL's Big Data GNEM group 
 
 ## Professional Presentations
 
-**Acoustical Society of America**. December 1st, 2016. Honolulu, HI. [Slides]().  
-**Consortium for Verification Technology Workshop**. October 19th, 2016. Ann Arbor, MI. [Poster]().  
-**IEEE PES Innovative Smart Grid Technologies Conference.**. September 8th, 2016. Minneapolis, MN. [Paper](https://github.com/openpowerquality/isgt2016/raw/master/opqVis.pdf). [Slides](https://github.com/openpowerquality/isgt2016/raw/master/paper-presentation/ISGT_2016.pdf).    
-**University & Industry Technical Interchange Review Meeting**. June 8th, 2016. Raleigh, NC. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWRGgtMEtoenJIeXc).  
-**American Geophysical Union Meeting**. December 17th, 2015. San Francisco, CA. [Poster](https://drive.google.com/file/d/0B-3SxTAoDyaWMFJ1S2hELTJXbVU/view?usp=sharing).  
-**Consortium for Verification Technology Workshop**. October 16, 2015. Ann Arbor, MI. [Video](https://www.youtube.com/watch?v=RPCLkZnU6Vg). [Slides](https://cvt.engin.umich.edu/wp-content/uploads/sites/173/2015/09/10.16-14.10-TA6-Anthony_Christe.pdf).  
+*Acoustical Society of America*. December 1st, 2016. Honolulu, HI. [Slides]().  
+*Consortium for Verification Technology Workshop*. October 19th, 2016. Ann Arbor, MI. [Poster]().  
+*IEEE PES Innovative Smart Grid Technologies Conference*. September 8th, 2016. Minneapolis, MN. [Paper](https://github.com/openpowerquality/isgt2016/raw/master/opqVis.pdf). [Slides](https://github.com/openpowerquality/isgt2016/raw/master/paper-presentation/ISGT_2016.pdf).    
+*University & Industry Technical Interchange Review Meeting*. June 8th, 2016. Raleigh, NC. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWRGgtMEtoenJIeXc).  
+*American Geophysical Union Meeting*. December 17th, 2015. San Francisco, CA. [Poster](https://drive.google.com/file/d/0B-3SxTAoDyaWMFJ1S2hELTJXbVU/view?usp=sharing).  
+*Consortium for Verification Technology Workshop*. October 16, 2015. Ann Arbor, MI. [Video](https://www.youtube.com/watch?v=RPCLkZnU6Vg). [Slides](https://cvt.engin.umich.edu/wp-content/uploads/sites/173/2015/09/10.16-14.10-TA6-Anthony_Christe.pdf).  
 
 
 ## Service
