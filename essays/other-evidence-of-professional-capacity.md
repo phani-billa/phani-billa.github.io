@@ -34,7 +34,7 @@ data. More information can be found under the [OPQ]() project.
 Granted an Academic Cooperation Participantship with LLNL's Big Data GNEM group from 2014 - 2016. Surveyed and implemented open source big data solutions for streaming seismic data.
 
 ## Professional Presentations
-_UH Manoa ICS Seminar_. December 1st, 2016. Honoulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWUmc5S0NleDJsQ2c)
+_UH Manoa ICS Seminar_. December 1st, 2016. Honoulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWUmc5S0NleDJsQ2c).  
 _Acoustical Society of America_. November 28th, 2016. Honolulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWbXpDZWFNdG1aQnc).  
 _Consortium for Verification Technology Workshop_. October 19th, 2016. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=0B-3SxTAoDyaWMUc5enYxUk5ad2M).  
 _IEEE PES Innovative Smart Grid Technologies Conference_. September 8th, 2016. Minneapolis, MN. [Paper](https://github.com/openpowerquality/isgt2016/raw/master/opqVis.pdf). [Slides](https://github.com/openpowerquality/isgt2016/raw/master/paper-presentation/ISGT_2016.pdf).    
