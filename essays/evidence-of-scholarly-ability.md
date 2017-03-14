@@ -12,11 +12,11 @@ labels:
 ## Literature Review
 
 *Data Management for Distributed Sensor Networks: A Literature Review*
-Anthony Christe. CSDL Tech Report CSDL-16-??.
+Anthony Christe. CSDL Tech Report CSDL-17-01.
 
 Abstract: Sensor networks are spatially distributed autonomous sensors that monitor the physical world around them and often communicate those reading over a network to a server or servers. Sensor networks can benefit from the generally ``unlimited resources'' of the cloud, namely processing, storage, and network resources. This literature review surveys the major components of distributed data management, namely, cloud computing, distributed persistence models, and distributed analytics.
 
-[Full Paper](https://github.com/anthonyjchriste/phd-lit-review/blob/master/litreview.pdf)
+[Full Paper]csdl.ics.hawaii.edu/techreports/2017/17-01/17-01.pdf)
 
 ## Publications
 
