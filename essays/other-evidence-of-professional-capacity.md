@@ -26,7 +26,7 @@ infrasound data. More information can be found under the [Lokahi]() project.
 ### Open Power Quality Project
 
 Designed a software suite for the collection, aggregation, analysis, display, and reporting of distributed power quality
-data. More information can be found under the [OPQ]() project.
+data. More information can be found under the [OPQ](http://openpowerquality.org/) project.
 
 ## Internships
 
@@ -34,6 +34,9 @@ data. More information can be found under the [OPQ]() project.
 Granted an Academic Cooperation Participantship with LLNL's Big Data GNEM group from 2014 - 2016. Surveyed and implemented open source big data solutions for streaming seismic data.
 
 ## Professional Presentations
+_Energy Week_. January 30th, 2018. Fukuoka, Japan. [Poster](https://github.com/openpowerquality/energy-week-2018/blob/master/energy-week-2018.pdf)  
+_Consortium for Verification Technology Workshop._ November 30th, 2017. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=148Jmu6m18ersi3jgBXOdF4rXBapwXLBA)  
+_IEEE Cyber_. August 3rd, 2017. Honolulu, HI. [Slides](https://github.com/openpowerquality/ieee-cyber-2017/blob/master/paper-presentation/ieee-cyber-2017.pdf)  
 _UH Manoa ICS Seminar_. December 1st, 2016. Honoulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWUmc5S0NleDJsQ2c).  
 _Acoustical Society of America_. November 28th, 2016. Honolulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWbXpDZWFNdG1aQnc).  
 _Consortium for Verification Technology Workshop_. October 19th, 2016. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=0B-3SxTAoDyaWMUc5enYxUk5ad2M).  
