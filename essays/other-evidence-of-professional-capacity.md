@@ -34,6 +34,10 @@ data. More information can be found under the [OPQ](http://openpowerquality.org/
 Granted an Academic Cooperation Participantship with LLNL's Big Data GNEM group from 2014 - 2016. Surveyed and implemented open source big data solutions for streaming seismic data.
 
 ## Professional Presentations
+_PhD Proposal Defense_. November 28th, 2018. Honolulu, HI. [Slides](https://drive.google.com/file/d/1O8rSU3m65IkswpTRg0G17Y2QjYryHlVo/view?usp=sharing)
+_Vertically Integrated Projects_. November, 2018. Honolulu, HI. [Poster](https://drive.google.com/file/d/1-wcW_hGnogIc8g317qJ9Yp4dFzwCkONN/view?usp=sharing)
+_Consortium for Verification Technology Workshop_. October 30th, 2018. Ann Arbor, MI. [Poster](https://drive.google.com/file/d/1n4aTqpQD-Ozm1-aJK-k3ERu1F7yZSmFb/view?usp=sharing)
+_University Program Review Workshop_. June 5th, 2018. Ann Arbor, MI. [Poster](https://drive.google.com/file/d/1IjbhH0IAHQM-yR6j04dhCQDk2HgF5vqo/view?usp=sharing)
 _Energy Week_. January 30th, 2018. Fukuoka, Japan. [Poster](https://github.com/openpowerquality/energy-week-2018/blob/master/energy-week-2018.pdf)  
 _Consortium for Verification Technology Workshop._ November 30th, 2017. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=148Jmu6m18ersi3jgBXOdF4rXBapwXLBA)  
 _IEEE Cyber_. August 3rd, 2017. Honolulu, HI. [Slides](https://github.com/openpowerquality/ieee-cyber-2017/blob/master/paper-presentation/ieee-cyber-2017.pdf)  

@@ -6,10 +6,10 @@
     "email": "achriste@hawaii.edu",
     "phone": "814-442-9524",
     "website": "https://anthonyjchriste.github.io",
-    "summary": "I am working towards a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am working towards a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Winter, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96814",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -55,7 +55,8 @@
         "Java",
         "Javascript",
         "Clojure",
-        "Python"
+        "Python",
+        "Rust"
       ]
     },
     {
@@ -73,7 +74,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Winter, 2019)",
       "studyType": "Ph.D.",
       "startDate": "2014",
       "endDate": "Present",
