@@ -2,7 +2,7 @@
 layout: essay    
 type: essay    
 title: Other Evidence of Professional Capacity  
-date: 2016-08-29  
+date: 2019-02-18 
 labels:  
   - PhD Portfolio
 ---
@@ -21,7 +21,7 @@ providing hands on coding experience for assignments and lab exercises.
 ### Lokahi Project
 
 Designed a software framework for the acquisition, persistence, analysis, and reporting of real-time distributed
-infrasound data. More information can be found under the [Lokahi]() project.
+infrasound data. More information can be found under the [Lokahi](https://redvox.io) project.
 
 ### Open Power Quality Project
 
