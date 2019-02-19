@@ -35,18 +35,31 @@ Granted an Academic Cooperation Participantship with LLNL's Big Data GNEM group 
 
 ## Professional Presentations
 _PhD Proposal Defense_. November 28th, 2018. Honolulu, HI. [Slides](https://drive.google.com/file/d/1O8rSU3m65IkswpTRg0G17Y2QjYryHlVo/view?usp=sharing)
+
 _Vertically Integrated Projects_. November, 2018. Honolulu, HI. [Poster](https://drive.google.com/file/d/1-wcW_hGnogIc8g317qJ9Yp4dFzwCkONN/view?usp=sharing)
+
 _Consortium for Verification Technology Workshop_. October 30th, 2018. Ann Arbor, MI. [Poster](https://drive.google.com/file/d/1n4aTqpQD-Ozm1-aJK-k3ERu1F7yZSmFb/view?usp=sharing)
+
 _University Program Review Workshop_. June 5th, 2018. Ann Arbor, MI. [Poster](https://drive.google.com/file/d/1IjbhH0IAHQM-yR6j04dhCQDk2HgF5vqo/view?usp=sharing)
-_Energy Week_. January 30th, 2018. Fukuoka, Japan. [Poster](https://github.com/openpowerquality/energy-week-2018/blob/master/energy-week-2018.pdf)  
-_Consortium for Verification Technology Workshop._ November 30th, 2017. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=148Jmu6m18ersi3jgBXOdF4rXBapwXLBA)  
-_IEEE Cyber_. August 3rd, 2017. Honolulu, HI. [Slides](https://github.com/openpowerquality/ieee-cyber-2017/blob/master/paper-presentation/ieee-cyber-2017.pdf)  
-_UH Manoa ICS Seminar_. December 1st, 2016. Honoulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWUmc5S0NleDJsQ2c).  
-_Acoustical Society of America_. November 28th, 2016. Honolulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWbXpDZWFNdG1aQnc).  
-_Consortium for Verification Technology Workshop_. October 19th, 2016. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=0B-3SxTAoDyaWMUc5enYxUk5ad2M).  
-_IEEE PES Innovative Smart Grid Technologies Conference_. September 8th, 2016. Minneapolis, MN. [Paper](https://github.com/openpowerquality/isgt2016/raw/master/opqVis.pdf). [Slides](https://github.com/openpowerquality/isgt2016/raw/master/paper-presentation/ISGT_2016.pdf).    
-_University & Industry Technical Interchange Review Meeting_. June 8th, 2016. Raleigh, NC. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWRGgtMEtoenJIeXc).  
-_American Geophysical Union Meeting_. December 17th, 2015. San Francisco, CA. [Poster](https://drive.google.com/file/d/0B-3SxTAoDyaWMFJ1S2hELTJXbVU/view?usp=sharing).  
+
+_Energy Week_. January 30th, 2018. Fukuoka, Japan. [Poster](https://github.com/openpowerquality/energy-week-2018/blob/master/energy-week-2018.pdf)
+  
+_Consortium for Verification Technology Workshop._ November 30th, 2017. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=148Jmu6m18ersi3jgBXOdF4rXBapwXLBA)
+  
+_IEEE Cyber_. August 3rd, 2017. Honolulu, HI. [Slides](https://github.com/openpowerquality/ieee-cyber-2017/blob/master/paper-presentation/ieee-cyber-2017.pdf)
+  
+_UH Manoa ICS Seminar_. December 1st, 2016. Honoulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWUmc5S0NleDJsQ2c).
+  
+_Acoustical Society of America_. November 28th, 2016. Honolulu, HI. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWbXpDZWFNdG1aQnc).
+  
+_Consortium for Verification Technology Workshop_. October 19th, 2016. Ann Arbor, MI. [Poster](https://drive.google.com/open?id=0B-3SxTAoDyaWMUc5enYxUk5ad2M).
+  
+_IEEE PES Innovative Smart Grid Technologies Conference_. September 8th, 2016. Minneapolis, MN. [Paper](https://github.com/openpowerquality/isgt2016/raw/master/opqVis.pdf). [Slides](https://github.com/openpowerquality/isgt2016/raw/master/paper-presentation/ISGT_2016.pdf).
+    
+_University & Industry Technical Interchange Review Meeting_. June 8th, 2016. Raleigh, NC. [Slides](https://drive.google.com/open?id=0B-3SxTAoDyaWRGgtMEtoenJIeXc).
+  
+_American Geophysical Union Meeting_. December 17th, 2015. San Francisco, CA. [Poster](https://drive.google.com/file/d/0B-3SxTAoDyaWMFJ1S2hELTJXbVU/view?usp=sharing).
+  
 _Consortium for Verification Technology Workshop_. October 16, 2015. Ann Arbor, MI. [Video](https://www.youtube.com/watch?v=RPCLkZnU6Vg). [Slides](https://cvt.engin.umich.edu/wp-content/uploads/sites/173/2015/09/10.16-14.10-TA6-Anthony_Christe.pdf).  
 
 
