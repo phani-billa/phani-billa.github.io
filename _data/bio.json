@@ -68,6 +68,11 @@
       "name": "Cloud Computing",
       "keywords": [
       ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -131,7 +136,7 @@
       "endDate": "2017-03-25",
       "gpa": "",
       "courses": [
-	      "Data Structures",
+	      "Web Development",
 	      ".Net",
 	      "Operating System"
       ]
