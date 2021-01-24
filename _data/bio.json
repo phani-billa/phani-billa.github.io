@@ -1,212 +1,185 @@
 {
   "basics": {
     "name": "Saimanoj Seshagiri",
-    "label": "GitHub Student Developer | Spark AR Facilitator | Mozilla | GirlScript Vizag | Former Intern at SanRon |",
+    "label": "GitHub Student Developer | Spark AR Facilitator | Mozilla | GirlScript Vizag | Former Intern at SanRon | Fellow Alphaa AI |",
     "picture": "https://phani-billa.github.io/images/me.png",
     "email": "saimanojseshagiri3@gmail.com",
     "phone": "950-595-5568",
-    "website": "https://phani-billa.github.io",
-    "summary": "I am studying for a B.Tech. in Computer Science in the Department of Information and Computer Sciences at the Sagi Rama Krishnam Raju Engineering College. I expect to graduate in Spring, 2020. ",
+    "summary": "I am studying for a B.Tech. in Computer Science in the Department of Information and Computer Sciences at the Sagi Rama Krishnam Raju Engineering College. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96816",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+      "postalCode": "534006",
+      "city": "Eluru",
+      "countryCode": "IND",
+      "region": "Andhra Pradesh"
+    },    
     "profiles": [
       {
         "network": "github",
-        "username": "anthonyjchriste",
-        "url": "http://github.com/anthonyjchriste"
+        "username": "saimanoj75",
+        "url": "http://github.com/saimanoj75"
       },
       {
         "network": "linkedin",
-        "username": "anthonyjchriste",
-        "url": "http://linkedin.com/in/anthonyjchriste"
+        "username": "saimanoj75",
+        "url": "http://linkedin.com/in/saimanoj75"
       }
     ]
   },
+    "work": [
+    {
+      "company": "The School of Innovation from Facebook",
+      "position": "Spark AR Facilitator",
+      "website": "",
+      "startDate": "2020-03-23",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Working as a bridge between university students and Facebook to help them with conceptsin Spark AR and work on real-time challenges that can be solved with the help of technology",
+        "Introduced Build an Effect with 2D and 3D object with World effects layer AR experiences on surfaces, objects and people in your environment and are viewable using the world-facing camera on your Smart Phone.",
+        "To Support Developer Circles from Facebook and Enthusiastic People in Spark AR Technology"
+      ]
+    },
+    {
+      "company": "SanRon Consultancy Services",
+      "position": "Software Developer Intern",
+      "website": "https://www.sanronit.com/",
+      "startDate": "2020-08-17",
+      "endDate": "2020-10-17",
+      "summary": "",
+      "highlights": [
+        "I have worked on a live project of “Designing and Developing an Ed-Tech the software product",
+        " I have Mainly Worked on the Front End Development and En-Handling my hands-on skills in Laravel, jQuery, SCSS, JavaScript"
+      ]
+    }
+  ],
   "interests": [
     {
-      "name": "distributed computing",
-      "keywords": [
-        "spark",
-        "kafka"
-      ]
-    },
-    {
-      "name": "data science",
+      "name": "Computer Networking",
       "keywords": [
       ]
     },
     {
-      "name": "signal classification",
+      "name": "Big Data",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cloud Computing",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
-        "C",
-        "Java",
+        "R",
+        "C++",
         "Javascript",
-        "Clojure",
         "Python",
-        "Rust"
+        "HTML",
+        "CSS"
       ]
     },
-    {
-      "name": "Toolsets/OS",
+	{
+      "name": "Operating System",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Linux",
-        "Git/GitHub",
-        "gnu utils",
-        "JVM"
+        "Windows",
+        "Linux"
+      ]
+    },
+	{
+      "name": "Data Base ",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+	{
+      "name": "Frame Work & Toolsets ",
+      "level": "",
+      "keywords": [
+        "React",
+        "GitHub",
+		"Spark AR"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Winter, 2019)",
-      "studyType": "Ph.D.",
-      "startDate": "2014",
+      "institution": "Sagi Ramakrishnam Raju Engineering College, Bhimavaram, IN",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Technology [B.Tech]",
+      "startDate": "2017-06-06",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "",
       "courses": [
+	      "Data Structures",
+	      "Cloud Computeing",
+	      "Operating System"
       ]
     },
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2011",
-      "endDate": "2014",
-      "gpa": "4.0",
+      "institution": "Sir C Ramalinga Reddy Polytechnic, Eluru, IN",
+      "area": "Computer Engineering",
+      "studyType": "Diploma",
+      "startDate": "2012-06-06",
+      "endDate": "2017-03-25",
+      "gpa": "",
       "courses": [
+	      "Data Structures",
+	      ".Net",
+	      "Operating System"
+      ]
+    }	  
+  ],
+  "volunteer": [
+    {
+      "organization": "Friends2Support",
+      "website": "https://www.friends2support.org/",
+      "position": "Volunteer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Safer, by bringing blood donors and those in need to a common platform.",
+        "Better, by providing every person what he/she deserves the most, best education"
       ]
     },
     {
-      "institution": "Slippery Rock University of Pennsylvania, Slippery Rock, PA",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2007",
-      "endDate": "2011",
-      "gpa": "3.5",
-      "courses": [
+      "organization": "Helping Hands For Raising Society",
+      "website": "",
+      "position": "Blood Organizer",
+      "startDate": "2015-03-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "మనవసేవే - మాధవసేవ"
       ]
     }
   ],
-  "work": [{
-    "company": "University of Hawaii at Manoa",
-    "position": "Research Assistant",
-    "website": "",
-    "startDate": "2014",
-    "endDate": "Present",
-    "summary": "Design of a framework for acquisition and analysis of distributed infrasound signals",
-    "highlights": []
-  }, {
-    "company": "OpenPowerQuality",
-    "position": "Co-Founder/Lead Software Engineer",
-    "website": "openpowerquality.org",
-    "startDate": "2014",
-    "endDate": "Present",
-    "summary": "Designed and implemented a suite of software for the aggregation, storage, and reporting of distributed power quality data.",
-    "highlights": []
-  }, {
-    "company": "University of Hawaii at Manoa",
-    "position": "Research Assistant",
-    "website": "",
-    "startDate": "2013",
-    "endDate": "2014",
-    "summary": "Designed and implemented open source distributed power quality monitoring software.",
-    "highlights": ["Investigate protocols for communication between power quality monitoring equipment and backends", "Identify power quality issues and inform users and the public", "Design an interface for distributed power quality metrics consumption and reporting"]
-  }, {
-    "company": "University of Hawaii at Manoa",
-    "position": "Teaching Assistant",
-    "website": "",
-    "startDate": "2011",
-    "endDate": "2013",
-    "summary": "Designed and ran the ICS 211 lab",
-    "highlights": ["Teach a diverse set of students core building blocks of programming techniques and tools", "Innovate using github to distribute classroom assignments and collect grades"]
-  }, {
-    "company": "Regional Learning Alliance, Cranberry, PA",
-    "position": "Assistant to Director of Technology",
-    "website": "",
-    "startDate": "2010",
-    "endDate": "2011",
-    "summary": "Assist in issues relating from IT to database entry",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "Undergraduate Research Assistant",
-    "website": "",
-    "startDate": "2009",
-    "endDate": "2011",
-    "summary": "Developed software for batch processing of requests from NOAA\u2019s Hysplit software package.",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "HPC Cluster Engineer",
-    "website": "",
-    "startDate": "2009",
-    "endDate": "2011",
-    "summary": "Developed, built, and maintained a computer cluster using COTS equipment.",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "Student Computer Help Desk",
-    "website": "",
-    "startDate": "2008",
-    "endDate": "2011",
-    "summary": "Assisted in diagnosing and repairing students\u2019 computer problems.",
-    "highlights": []
-  }],
-  "volunteer": [{
-    "organization": "808 Cleanups",
-    "position": "Software Developer and Cleanup Volunteer",
-    "startDate": "2015",
-    "endDate": "Present",
-    "summary": "Design backend and app for 808 cleanups and well as cleaning up trails",
-    "highlights": []
-  }, {
-    "organization": "Upsilon Pi Epsilon, Slippery Rock University of Pennsylvania",
-    "website": "",
-    "position": "Vice President",
-    "startDate": "2010",
-    "endDate": "2011",
-    "summary": "International Honor Society for the Computing and Information Disciplines",
-    "highlights": []
-  }, {
-    "organization": "Slippery Rock University of Pennsylvania",
-    "website": "",
-    "position": "Student Advisor to the Dean",
-    "startDate": "2010",
-    "endDate": "2010",
-    "summary": "",
-    "highlights": []
-  }, {
-    "organization": "Computer Technology Club, Slippery Rock University of Pennsylvania",
-    "website": "",
-    "position": "President",
-    "startDate": "2009",
-    "endDate": "2010",
-    "summary": "",
-    "highlights": []
-  }],
   "awards": [
-
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Anna Radulovski",
+      "reference": "Saimanoj is a skilled Front End Developer passionate about community building and open source.At WomenTech Network, he plays an essential role as a Global Ambassador helping to unite 100000 women in tech to drive change with purpose and impact. We are delighted to have such a strong connector and influencer as part of our network, and we are looking forward to further advance our mission together through the WomenTech Global Conference and other initiatives."
     }
   ]
 }
